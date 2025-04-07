@@ -28,7 +28,7 @@ cd vibeGarden
 ```
 
 ### 3. Open the Project
-Open vibeGarden.html directly in your browser
+Open index.html directly in your browser
 
 
 
