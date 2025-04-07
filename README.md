@@ -16,7 +16,7 @@ The Interactive Garden with Notes is a web-based application that allows users t
 - **Reset Garden**: Reset the garden to its initial state.
 
 ## How to Run
-1. **Download the Project Files**: Ensure you have all the necessary files, including `vibeGarden.html` and any image and/or music assets (e.g., plant icons, critter animations, music, etc.).
+1. **Download the Project Files**: Ensure you have all the necessary files, including `vibeGarden.html` and any image, icons, and/or music assets (e.g., plant icons, critter animations, music, etc.).
 
 2. **Open the HTML File**: Open the `vibeGarden.html` file in your preferred web browser. This file contains the main structure of the interactive garden.
 
