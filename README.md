@@ -14,6 +14,13 @@ A cozy digital garden for peaceful vibes and writing down your thoughts.
 | Internet    | For loading fonts, icons, music       |
 
 ---
+## To Run
+
+### Click Link: 
+
+https://janayls.github.io/VIBECODE/
+
+## OR
 
 ## How To Run Locally
 
@@ -29,8 +36,6 @@ cd vibeGarden
 
 ### 3. Open the Project
 Open index.html directly in your browser
-
-
 
 -------
 ## Vibe Garden README
